@@ -798,3 +798,7 @@ body.widescreen.fixed-left .side-menu .metismenu>li .nav-second-level{
     margin-bottom: 20px;
 }
 }
+
+.header{
+text-align: center;
+}
